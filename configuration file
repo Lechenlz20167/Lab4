@@ -1,0 +1,13 @@
+[TELEGRAM]
+ACCESS_TOKEN = 6735106346:AAFHGTtRYDzw7YMxq7dJOwwS-18Ids4SKGM 
+
+[REDIS]
+HOST = redis-19080.c263.us-east-1-2.ec2.redns.redis-cloud.com
+PASSWORD = [your redis database password]
+REDISPORT=19080
+DECODE RESPONSE= true
+USER_NAME = 'default'[CHATGPT]
+BASICURL = https://genai.hkbu.edu.hk/general/rest
+MODELNAME= gpt-4-o-mini
+APIVERSION = 2024-05-01-preview
+ACCESS_TOKEN=YOUR_ACCESS_TOKEN
