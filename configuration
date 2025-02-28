@@ -1,0 +1,9 @@
+[TELEGRAM]
+ACCESS_TOKEN = 739251393:AAHpToexnAdMRXhhCWjpcaBkWh1Llk5sGqM
+
+[REDIS]
+HOST = redis-19080.c263.us-east-1-2.ec2.redns.redis-cloud.com
+PASSWORD = [your redis database password]
+REDISPORT = 19080
+DECODE_RESPONSE = true
+USER_NAME = 'default
